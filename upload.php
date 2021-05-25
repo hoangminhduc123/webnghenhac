@@ -18,4 +18,5 @@ if(isset($_FILES["myfile"]))
     }
 
 }
+//hãy sửa lại chỗ này
 ?>
